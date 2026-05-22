@@ -1,3 +1,13 @@
+> **This repository is superseded and archived.**
+>
+> The Origin Axiom project has been consolidated into a single canonical repository:
+> **https://github.com/originaxiom/origin-axiom**
+>
+> This repo is preserved read-only as part of the project history. See AUDIT_REPORT.md
+> and PROVENANCE.md in the canonical repository for how this work was reconciled.
+
+---
+
 # Origin Axiom
 
 A disciplined, multi-phase attempt to see whether a single **non-cancelling phase twist** (θ\* or a closely related structure) could sit at the root of vacuum, fields, and large-scale structure – and if not, to learn *precisely why not* in a way that is reusable for future work.
